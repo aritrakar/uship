@@ -1,5 +1,5 @@
 .container {
-  max-width: 960px;
+   max-width: 960px;
 }
 
 /*
@@ -55,7 +55,6 @@
   background-color: #e5e5e5;
 }
 
-
 /*
  * Extra utilities
  */
@@ -72,3 +71,7 @@
 }
 
 .overflow-hidden { overflow: hidden; }
+
+#gold { background-color: #FFD700; } /*Not working*/
+
+footer {text-decoration-color: #FFD700; }
